@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.log
+
+# segredos e dados — nunca versionar
+.env
+credentials.json
+Documentos_SBC/
+sbc_form.pdf
+
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
